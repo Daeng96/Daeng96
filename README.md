@@ -2,4 +2,4 @@
 
 *Pengguna Jetpack Compose*
 
-*Hampir setiap hair `Commit` tapi di repository privat*
+*Hampir setiap hari `Commit` tapi di repository privat*

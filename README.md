@@ -16,7 +16,9 @@
 <p align="left">
 <a href="https://github.com/Daeng96">
 <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Daeng96&layout=compact&langs_count=8&theme=radical"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daeng96&layout=compact)](https://github.com/Daeng96/github-readme-stats)
+```md 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats) 
+ ```
 <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Daeng96&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </a>
 </p>

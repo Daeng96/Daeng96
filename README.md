@@ -12,5 +12,5 @@
   <img align="left" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"/>
 <br><br>
 
-[![Daeng96 GitHub stats](https://github-readme-stats.vercel.app/api?username=daeng96)](https://github.com/daeng96/github-readme-stats)
+[![Daeng96 GitHub stats](https://github-readme-stats.vercel.app/api?username=daeng96&count_private=true&show_icon=true&theme=dracula)](https://github.com/daeng96/github-readme-stats)
 

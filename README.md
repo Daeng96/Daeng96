@@ -13,4 +13,6 @@
 <br><br>
 
 [![Daeng96 GitHub stats](https://github-readme-stats.vercel.app/api?username=daeng96&count_private=true&show_icon=true&theme=dracula)](https://github.com/daeng96/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=daeng96&show_icon=true&theme=dracula)](https://github.com/daeng96/github-readme-stats)
+
 

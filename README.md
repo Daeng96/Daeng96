@@ -12,12 +12,5 @@
   <img align="left" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"/>
 <br><br>
 
-### Github Statistic
-<p align="left">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daeng96)](https://github.com/daeng96/github-readme-stats)
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daeng96&layout=compact&theme=radical"/>
-
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Daeng96&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</a>
-</p>
+[![Daeng96 GitHub stats](https://github-readme-stats.vercel.app/api?username=daeng96)](https://github.com/daeng96/github-readme-stats)
 

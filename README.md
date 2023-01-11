@@ -14,8 +14,8 @@
 
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/Daeng96">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daeng96&layout=compact"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daeng96)](https://github.com/daeng96/github-readme-stats)
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daeng96&layout=compact&theme=radical"/>
 
 <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Daeng96&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </a>
